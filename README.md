@@ -15,7 +15,7 @@ To install this project, clone the repository and install the required Python de
 
 ## Usage
 
-To use this project, run the `undercover_agent.py` script. You can modify the `wordlist.py` script to change the wordlist used in the operations.
+To use this project, run the `undercover_agent.py` script. You can modify the `wordlist.py` script to change the wordlist used in the  operations.
 
 ## Contributing
 
